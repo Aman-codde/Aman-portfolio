@@ -33,6 +33,8 @@ type ProjectCardProps = {
   slug?: string;
 };
 
+
+
 const ProjectCard = ({
   index,
   name,

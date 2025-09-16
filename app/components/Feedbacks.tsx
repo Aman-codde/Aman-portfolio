@@ -67,7 +67,7 @@ const Feedbacks = () => {
         >
           <h2 className="sectionHeadText">
             <span className="rainbow-text-gradient">
-              Let's build something great.
+              Let&apos;s build something great.
             </span>
           </h2>
           <p className="sectionSubText mt-4">

@@ -125,7 +125,7 @@ export type ProfileProject = {
   company: string;
   location?: string;
   role: string;
-  period: string; // e.g., 2023 – Present
+  period?: string; // e.g., 2023 – Present
   start?: string; // e.g., 2023-01
   end?: string;   // e.g., 2024-08 or Present
   description: string;

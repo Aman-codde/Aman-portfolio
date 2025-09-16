@@ -174,6 +174,11 @@ const testimonials = [
 
 const projects :{
 	name: string;
+	period: string;
+	company: string;
+	location: string;
+	role: string;
+	slug: string;
 	description: string;
 	tags: {
 		name: string;
@@ -186,6 +191,11 @@ const projects :{
 }[] = [
 	{
 		name: "A.V.M Auto Portfolio",
+		period: "2020 - 2023",
+		company: "A.V.M Auto",
+		location: "Ahmedabad, Gujarat, India",
+		role: "Wordpress Developer & UI/UX Designer",
+		slug: "avm-auto-portfolio",
 		description:
 			"A Designed and developed a visually appealing and user-friendly portfolio website using WordPress.",
 		tags: [
@@ -204,6 +214,11 @@ const projects :{
 	},
 	{
 		name: "Sparkbright Engineering Portfolio",
+		period: "2023 - 2024",
+		company: "Sparkbright Engineering",
+		location: "Ahmedabad, Gujarat, India",
+		role: "Next.JS Developer",
+		slug: "sparkbright-engineering-portfolio",
 		description:
 			" Designed and developed a visually appealing and user-friendly portfolio website using Next.JS.",
 		tags: [
@@ -227,6 +242,11 @@ const projects :{
 	},
 	{
 		name: "HooBank",
+		period: "2023 - 2024",
+		company: "HooBank",
+		location: "Ahmedabad, Gujarat, India",
+		role: "Next.JS Developer",
+		slug: "hoobank",
 		description:
 			"A responsive Bank HomePage showcasing different features such as various payment gateways integration, easy money transfer, advanced security, etc. It has a beautiful interface made using Tailwind CSS and React",
 		tags: [
@@ -246,6 +266,11 @@ const projects :{
 	},
 	{
 		name: "MERN Dashboard",
+		period: "2023 - 2024",
+		company: "MERN Dashboard",
+		location: "Ahmedabad, Gujarat, India",
+		role: "Next.JS Developer",
+		slug: "mern-dashboard",
 		description:
 			" Designed and developed a visually appealing and user-friendly Data Analytics Dashboard using MERN",
 		tags: [
@@ -273,6 +298,11 @@ const projects :{
 	},
 	{
 		name: "Metaverse Web 3.0",
+		period: "2023 - 2024",
+		company: "Metaverse Web 3.0",
+		location: "Ahmedabad, Gujarat, India",
+		role: "Next.JS Developer",
+		slug: "metaverse-web-3.0",
 		description:
 			"A Modern UI/UX Landing Page using Framer Motion and TailwindCSS with a feel and looks of Web 3.0",
 		tags: [
@@ -296,6 +326,11 @@ const projects :{
 	},
 	{
 		name: "Issue Tracker",
+		period: "2023 - 2024",
+		company: "Issue Tracker",
+		location: "Ahmedabad, Gujarat, India",
+		role: "Next.JS Developer",
+		slug: "issue-tracker",
 		description:
 			"A Next.JS Full Stack Issue Tracker made using Next.Js, ShadCN UI, Prisma, mySQL with latest features like Next.JS Server Components, and Serverless features.",
 		tags: [
