@@ -50,8 +50,8 @@ Before you begin, ensure you have the following installed:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/HemantKKumar24/portfolio.git
-cd portfolio/Project_3DPortfolio
+git clone https://github.com/Aman-codde/Aman-portfolio.git
+cd portfolio
 ```
 
 ### 2. Install Dependencies
